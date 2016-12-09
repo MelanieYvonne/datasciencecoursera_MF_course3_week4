@@ -6,4 +6,4 @@ The final data set can be found in the *tidyaveragesdata.txt* file, which can be
 
 *run_analysis.R* contains all the code to perform the analyses described in the 5 steps. 
 
-*Finally: soory for my bad English.*
+###Finally: sorry for my bad English.
